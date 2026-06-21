@@ -1,4 +1,4 @@
-# Project 2 - The Blueprint (Wireframing) 🏗
+# Project 2 - The Blueprint (Wireframing) 
 
 ## DecodeLabs UI/UX Internship
 
